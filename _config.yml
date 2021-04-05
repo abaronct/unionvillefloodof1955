@@ -10,9 +10,9 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://abaronct.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /unionvillefloodof1955
+baseurl: /unionvillefloodof1955-gh
 # location of code, the full url to your github repository
-source-code: https://github.com/abaronct/unionvillefloodof1955
+source-code: https://github.com/abaronct/unionvillefloodof1955-gh
 
 ##########
 # SITE SETTINGS
