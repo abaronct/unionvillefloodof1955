@@ -10,15 +10,15 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://abaronct.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /unionvillefloodof1955-gh
+baseurl: /unionvillefloodof1955
 # location of code, the full url to your github repository
-source-code: https://github.com/abaronct/unionvillefloodof1955-gh
+source-code: https://github.com/abaronct/unionvillefloodof1955
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Unionville Flood August 19, 1955 
+title: Unionville Flood August 1955 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Flood Damage Following Two Hurricanes
 # description appears in meta tags and other locations
