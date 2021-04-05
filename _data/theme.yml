@@ -65,7 +65,7 @@ longitude: #to determine center of map
 zoom-level: # zoom level for map 
 map-base: # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
 map-search: # true/false, not suggested with large collections
-map-search- # fuzzy search range from 1 = anything to 0 = exact match only
+map-search: # fuzzy search range from 1 = anything to 0 = exact match only
 map-cluster: # true/false, suggested for large collection or with many items in same location
 map-cluster-radius: # size of clusters, from ~ 10 to 80
 
